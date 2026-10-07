@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+dist_encrypted/
+.venv/
+venv/
+*.db
+valid_vouchers.txt
+pyarmor.bug.log
+*.bug.log
+pyarmor.bug.log
+*.bug.log
+*.bug.log
+dist_encrypted/
